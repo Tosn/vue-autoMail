@@ -1,0 +1,23 @@
+{
+  "name": "vue-automail",
+  "version": "1.0.0",
+  "description": "基于vue的邮箱自动补充功能",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tosn/vue-autoMail.git"
+  },
+  "keywords": [
+    "vue",
+    "autoMail"
+  ],
+  "author": "Tosn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tosn/vue-autoMail/issues"
+  },
+  "homepage": "https://github.com/Tosn/vue-autoMail#readme"
+}
