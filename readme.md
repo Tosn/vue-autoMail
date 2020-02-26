@@ -3,8 +3,11 @@
 ### 安装
 
 ```js
-npm install vue-automail --save
-import autoMail from 'vue-automail'
+//安装
+npm install vue-auto-mail --save
+
+//mian.js 引入注册
+import autoMail from 'vue-auto-mail'
 Vue.directive('autoMail', autoMail)
 ```
 
