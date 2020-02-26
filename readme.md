@@ -11,6 +11,18 @@ import autoMail from 'vue-auto-mail'
 Vue.directive('autoMail', autoMail)
 ```
 
+### 功能简介
+邮箱后缀补全:<br>
+![](https://user-gold-cdn.xitu.io/2020/2/26/17080ab8cbef5a27?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+
+已集成功能：
+* 输入自动过滤
+* 回车选择，上下选择
+* 失去焦点自动填充（模仿的163邮箱登录）
+* 支持自定义邮箱类型
+* 支持邮箱选择距离元素top自定义
+
+
 ### 使用方法
 
 默认使用
