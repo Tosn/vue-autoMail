@@ -1,6 +1,6 @@
 {
   "name": "vue-auto-mail",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于vue的邮箱自动补充功能",
   "main": "./lib/index.js",
   "scripts": {
